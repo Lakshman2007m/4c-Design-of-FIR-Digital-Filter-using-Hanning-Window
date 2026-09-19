@@ -38,6 +38,12 @@ xlabel('Normalized Digital Frequency W');
 ylabel('Magnitude in dB');
 title('Frequency Response of FIR LPF using Hanning Window');
 ```
+### CALCULATION:
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 41 22" src="https://github.com/user-attachments/assets/d05d23a3-f589-4eb6-b003-ae908774b0c1" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 41 28" src="https://github.com/user-attachments/assets/0c9cfbab-fbf6-4fec-ad04-baa32101e5b7" />
+<img width="899" height="1599" alt="WhatsApp Image 2026-09-19 at 08 41 34" src="https://github.com/user-attachments/assets/84c202b1-c10e-4a0e-a64c-38f9a09b2099" />
+
+
 # OUTPUT: 
 <img width="717" height="572" alt="image" src="https://github.com/user-attachments/assets/29bb556c-b93c-4a91-b8bb-12c427690155" />
 
